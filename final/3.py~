@@ -1,0 +1,13 @@
+def rabbitGrowth(popRabbit)
+    minRabbit = 10
+    maxRabbit = 1000
+    popRabbit = popRabbit
+    # probability a rabbit will be born at a time step
+    # probRabbit = 1.0 - float( (popRabbit / maxRabbit) ) 
+    # return probRabbit
+
+def foxGrowth()
+    minFox = 10
+    #probFoxEats = flot( (popRabbit/maxRabbit) )
+    
+def runSimulation()
